@@ -42,3 +42,8 @@ Model Optimization
 To improve performance, techniques such as dropout, batch normalization, and fine-tuning hyperparameters like learning rate, batch size, and the number of layers can be employed. Using pre-trained models like VGG16 or ResNet and fine-tuning them on the specific dataset is another approach to boost accuracy.
 
 This image classification project demonstrates how deep learning and TensorFlow can be applied to solve real-world problems like object and image recognition. The process involves data preparation, model building, training, and evaluation, with potential for further enhancement using advanced techniques and transfer learning. The resulting model can be deployed in various applications, ranging from automated image tagging to advanced systems like self-driving cars.
+
+output :
+
+![Image](https://github.com/user-attachments/assets/d050599b-3063-4f99-af69-1515c119df8a)
+
